@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git@github.com:sujatakuma/Product-frontend.git/static/css/main.073c9b0a.css",
+    "main.js": "/git@github.com:sujatakuma/Product-frontend.git/static/js/main.6576b5f9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/git@github.com:sujatakuma/Product-frontend.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/git@github.com:sujatakuma/Product-frontend.git/index.html",
+    "main.073c9b0a.css.map": "/git@github.com:sujatakuma/Product-frontend.git/static/css/main.073c9b0a.css.map",
+    "main.6576b5f9.js.map": "/git@github.com:sujatakuma/Product-frontend.git/static/js/main.6576b5f9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/git@github.com:sujatakuma/Product-frontend.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6576b5f9.js"
+  ]
+}
